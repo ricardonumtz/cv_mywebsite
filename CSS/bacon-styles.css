@@ -1,0 +1,28 @@
+﻿/*************************************************************TAG SELECTOR*************************************************/
+h1{
+    color: brown;
+    font-size:100px;
+}
+
+h2{
+    color: brown;
+    font-size:100px;
+}
+
+img {
+    background-color :palevioletred;
+}
+/************************************************************CLASS SELECTOR************************************************/
+.bacon{
+    background-color:bisque;
+}
+.broccoli{
+    background-color:burlywood;
+}
+.circular{
+    border-radius:100%;
+}
+/****************************************************ID SELECTOR***********************************************/
+#title{
+    color:aquamarine;
+}
